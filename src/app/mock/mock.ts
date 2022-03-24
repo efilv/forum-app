@@ -17,7 +17,7 @@ const messagesData: Message[] = [{
     messageData: {
         timestamp: Date.parse('2021-10-22T09:28:00'),
         body: 'Hello Im new here',
-        rank: 0,
+        rank: 6,
     }
 }, {
     id: 1,
@@ -47,7 +47,7 @@ const messagesData: Message[] = [{
     messageData: {
         timestamp: Date.parse('2021-10-22T12:07:00'),
         body: 'Welcome buddy',
-        rank: 0,
+        rank: 3,
     }
 }, {
     id: 3,
@@ -62,6 +62,6 @@ const messagesData: Message[] = [{
     messageData: {
         timestamp: Date.parse('2021-10-22T14:16:00'),
         body: 'Welcome',
-        rank: 0,
+        rank: 2,
     }
 }];
